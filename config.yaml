@@ -22,3 +22,11 @@ monitors:
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
+
+  - id: portainer-goshawk22-uk
+    name: portainer.goshawk22.uk
+    description: 'Container management made easy'
+    url: 'https://portainer.goshawk22.uk'
+    method: GET
+    expectStatus: 200
+    linkable: true # allows the title to be a link, default=true
